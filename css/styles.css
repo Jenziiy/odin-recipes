@@ -1,0 +1,54 @@
+body {
+  color: rgba(36, 36, 38);
+  background-color:antiquewhite;
+  font-family: Tahoma, Verdana, sans-serif;
+  font-size: 13px;
+  width: 850px;
+}
+
+.index {
+  background-color: rgb(195, 144, 166);
+}
+
+img {
+  height: auto;
+  width: 350px;
+  border-style: solid outset;
+  border-color: hotpink;
+  float: left;
+}
+#eggs {
+  width: 260px;
+  height: auto;
+}
+
+[href]:hover {
+color: magenta;
+}
+h1 {
+  color: purple;
+}
+h2 {
+  color: darkslateblue;
+}
+li{
+  line-height: 22px;
+}
+.div-one {
+  float: left;
+}
+.div-two {
+  overflow: hidden;
+}
+.description,
+.info {
+  overflow: hidden;
+  padding-left: 40px;
+  width: 420px;
+}
+.info {
+  height: 80px;
+}
+.info-pizza {
+  height: 100px;
+}
